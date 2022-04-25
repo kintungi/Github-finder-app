@@ -3,6 +3,7 @@ module.exports = {
   content: [
     "./src/*.{html,js,jsx}",
     "./src/components/layout/*.{html,js,jsx}",
+    "./src/components/repos/*.{html,js,jsx}",
     "./src/components/users/*.{html,js,jsx}",
     "./src/pages/*.{html,js,jsx}"
   ],
